@@ -188,9 +188,10 @@ background-color: var(--dark-bg-color);
 }
 
 .map{
-color:#FFFFFF
+color: var(--light-text-color);
 }
 
 .info{
 color: rgba(255, 255, 255, 0.6);
 }
+
